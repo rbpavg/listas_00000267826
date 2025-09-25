@@ -1,0 +1,45 @@
+-------------------------------------------------------------------------------
+Test set: implementaciones.ArrayListTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.096 s <<< FAILURE! -- in implementaciones.ArrayListTest
+implementaciones.ArrayListTest.testGet -- Time elapsed: 0.033 s <<< ERROR!
+excepciones.ListException: Lista vacia
+	at implementaciones.ArrayList.get(ArrayList.java:192)
+	at implementaciones.ArrayListTest.testGet(ArrayListTest.java:128)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+implementaciones.ArrayListTest.testSet -- Time elapsed: 0.003 s <<< ERROR!
+excepciones.ListException: Lista vacia
+	at implementaciones.ArrayList.set(ArrayList.java:29)
+	at implementaciones.ArrayListTest.testSet(ArrayListTest.java:45)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+implementaciones.ArrayListTest.testRemove_GenericType -- Time elapsed: 0.002 s <<< ERROR!
+excepciones.ListException: Lista vacia
+	at implementaciones.ArrayList.remove(ArrayList.java:48)
+	at implementaciones.ArrayListTest.testRemove_GenericType(ArrayListTest.java:59)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+implementaciones.ArrayListTest.testRemove_int -- Time elapsed: 0.003 s <<< ERROR!
+excepciones.ListException: Lista vacia
+	at implementaciones.ArrayList.get(ArrayList.java:192)
+	at implementaciones.ArrayList.remove(ArrayList.java:207)
+	at implementaciones.ArrayListTest.testRemove_int(ArrayListTest.java:143)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+implementaciones.ArrayListTest.testIndexOf -- Time elapsed: 0.002 s <<< ERROR!
+excepciones.ListException: Lista vacia
+	at implementaciones.ArrayList.indexOf(ArrayList.java:74)
+	at implementaciones.ArrayListTest.testIndexOf(ArrayListTest.java:74)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+

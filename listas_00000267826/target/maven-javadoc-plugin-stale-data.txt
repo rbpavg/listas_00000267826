@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'D:/Projects/Java/Estructura/listas_00000267826/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Projects/Java/Estructura/listas_00000267826/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'listas_00000267826 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'listas_00000267826 1.0-SNAPSHOT API'
+excepciones
+implementaciones
+interfaces
+D:\Projects\Java\Estructura\listas_00000267826\src\main\java = 1758784222528
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\allclasses-index.html = 1758788377415
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\allpackages-index.html = 1758788377418
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\element-list = 1758788377308
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\help-doc.html = 1758788377470
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\index-all.html = 1758788377445
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\index.html = 1758788377392
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\member-search-index.js = 1758788377424
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\module-search-index.js = 1758788377420
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\overview-summary.html = 1758788377465
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\overview-tree.html = 1758788377387
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\package-search-index.js = 1758788377421
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\search.html = 1758788377462
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\serialized-form.html = 1758788377350
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\tag-search-index.js = 1758788377425
+D:\Projects\Java\Estructura\listas_00000267826\target\reports\apidocs\type-search-index.js = 1758788377423
